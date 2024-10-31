@@ -192,7 +192,6 @@
     },
     {
         "name": "Valley of the Kings",
-	"food": 2,
 	"culture": 1,
         "greatPersonPoints": {"Great Engineer": 1},
         "requiredTech": "Mining",
