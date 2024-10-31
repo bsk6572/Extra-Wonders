@@ -146,7 +146,7 @@
 	"food": 2
 	"culture": 2,
         "greatPersonPoints": {"Great Engineer": 1},
-        "requiredTech": "Mining",
+        "requiredTech": "Animal Husbandry",
 
         "uniques": [
             "Empire enters golden age"],
