@@ -17,7 +17,7 @@
     {
         "name": "Grand knight school",
 
-		"science": 1,
+	"science": 1,
 
         "greatPersonPoints": {"Great Scientist": 1},
         "percentStatBonus": {"science": 20},
@@ -32,7 +32,7 @@
     {
         "name": "Mont-Saint-Michel",
 
-		"faith": 3,
+	"faith": 3,
 
         "greatPersonPoints": {"Great Engineer": 2},
         "percentStatBonus": {"faith": 20},
@@ -62,8 +62,8 @@
     {
         "name": "Fushimi Inari-taisha",
 
-		"Faith": 4,
-	        "Food": 4,
+	"Faith": 4,
+	"Food": 4,
         "greatPersonPoints": {"Great Engineer": 1},
 
         "requiredTech": "Horseback Riding",
@@ -76,8 +76,8 @@
     {
         "name": "Bayon",
 
-		"Happiness": 4,
-	        "Food": 4,
+	"Happiness": 4,
+	"Food": 4,
         "greatPersonPoints": {"Great Engineer": 2},
 
         "requiredTech": "Civil Service",
@@ -91,7 +91,7 @@
     {
         "name": "Cologne Cathedral",
 
-		"Happiness": 5,
+	"Happiness": 5,
         "greatPersonPoints": {"Great Artist": 1},
 
         "requiredTech": "Compass",
@@ -104,8 +104,8 @@
     {
         "name": "Sagrada Familia",
 
-		"Happiness": 2,
-	        "faith": 12,
+	"Happiness": 2,
+	 "faith": 12,
         "greatPersonPoints": {"Great Artist": 3},
         "percentStatBonus": {"culture": 20},
         "requiredTech": "Ballistics",
@@ -118,7 +118,7 @@
     {
         "name": "Empire State Building",
 
-		"Production": 6,
+	"Production": 6,
         "greatPersonPoints": {"Great Engineer": 3},
         "percentStatBonus": {"Production": 15},
         "requiredTech": "Rocketry",
@@ -131,7 +131,7 @@
     {
         "name": "Times Square",
 
-		"culture": 6,
+	"culture": 6,
         "greatPersonPoints": {"Great Artist": 3},
         "percentStatBonus": {"culture": 15},
         "requiredTech": "Lasers",
