@@ -106,13 +106,12 @@
         "name": "Sagrada Familia",
 
 	"happiness": 2,
-	 "faith": 12,
+	 "faith": 24,
         "greatPersonPoints": {"Great Artist": 3},
-        "percentStatBonus": {"culture": 20},
-        "requiredTech": "Ballistics",
+        "requiredTech": "Satellites",
 
         "uniques": [
-            "Free Social Policy", "Each city founded increases culture cost of policies [10]% less than normal"],
+            "Free Social Policy"],
 
         "isWonder": true
     },	
@@ -125,7 +124,7 @@
         "requiredTech": "Rocketry",
 
         "uniques": [
-            "Provides [10] [Aluminum]", "[+2 Production] from [River] tiles [in this city]"],
+            "Provides [10] [Aluminum]", "[+2 Production] from [River] tiles [in this city]", "Must be on [River]"],
 
         "isWonder": true
     },	
@@ -142,5 +141,66 @@
 
         "isWonder": true
     },		
+    {
+        "name": "Ziggurat",
+	"food": 2
+	"culture": 2,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Mining",
+
+        "uniques": [
+            "Empire enters golden age"],
+
+        "isWonder": true
+    },
+    {
+        "name": "Luxor Temple",
+	"production": 2,
+	"faith": 2    
+	"culture": 1,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "The Wheel",
+
+        "uniques": [
+            "Gain a free [Colosseum] [in this city]"],
+
+        "isWonder": true
+    },
+    {
+        "name": "Acropolis",
+	"science": 3,
+	"culture": 1,
+        "greatPersonPoints": {"Great Scientist": 1},
+        "requiredTech": "Pottery",
+
+        "uniques": [
+            "[+1 Gold, +1 Happiness] per [2] population [in this city]"],
+
+        "isWonder": true
+    },	
+    {
+        "name": "Sphinxt",
+	"production": 1,
+	"culture": 1,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Masonry",
+
+        "uniques": [
+            "[+10]% Production when constructing [All] buildings [in all cities]"],
+
+        "isWonder": true
+    },
+    {
+        "name": "Valley of the Kings",
+	"food": 2,
+	"culture": 1,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Mining",
+
+        "uniques": [
+            "[+1 Production] from [River] tiles [in this city]", "Must be on [River]"],
+
+        "isWonder": true
+    },
 	
 ]
