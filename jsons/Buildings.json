@@ -47,7 +47,7 @@
     {
         "name": "Praha castle",
 
-		"Production": 6,
+	"production": 6,
 
         "greatPersonPoints": {"Great Engineer": 3},
         "percentStatBonus": {"Food": 15},
@@ -62,8 +62,9 @@
     {
         "name": "Fushimi Inari-taisha",
 
-	"Faith": 4,
-	"Food": 4,
+	"faith": 4,
+	"food": 4,
+	    
         "greatPersonPoints": {"Great Engineer": 1},
 
         "requiredTech": "Horseback Riding",
@@ -76,8 +77,8 @@
     {
         "name": "Bayon",
 
-	"Happiness": 4,
-	"Food": 4,
+	"happiness": 4,
+	"food": 4,
         "greatPersonPoints": {"Great Engineer": 2},
 
         "requiredTech": "Civil Service",
@@ -91,7 +92,7 @@
     {
         "name": "Cologne Cathedral",
 
-	"Happiness": 5,
+	"happiness": 5,
         "greatPersonPoints": {"Great Artist": 1},
 
         "requiredTech": "Compass",
@@ -104,7 +105,7 @@
     {
         "name": "Sagrada Familia",
 
-	"Happiness": 2,
+	"happiness": 2,
 	 "faith": 12,
         "greatPersonPoints": {"Great Artist": 3},
         "percentStatBonus": {"culture": 20},
@@ -118,7 +119,7 @@
     {
         "name": "Empire State Building",
 
-	"Production": 6,
+	"food": 6,
         "greatPersonPoints": {"Great Engineer": 3},
         "percentStatBonus": {"Production": 15},
         "requiredTech": "Rocketry",
