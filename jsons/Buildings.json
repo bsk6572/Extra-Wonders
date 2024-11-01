@@ -180,13 +180,13 @@
     },	
     {
         "name": "Sphinxt",
-	"production": 1,
+	"production": 3,
 	"culture": 1,
         "greatPersonPoints": {"Great Engineer": 1},
         "requiredTech": "Masonry",
 
         "uniques": [
-            "[+10]% Production when constructing [All] buildings [in all cities]"],
+            "[+5]% Production when constructing [All] buildings [in all cities]"],
 
         "isWonder": true
     },
@@ -201,5 +201,149 @@
 
         "isWonder": true
     },
-	
+    {
+        "name": "Chateau de Chambord",
+	"food": 6    
+	"culture": 1,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Printing Press",
+
+        "uniques": [
+            "[+1 Food] from every [Camp]"],
+
+        "isWonder": true
+    },	
+    {
+        "name": "Palazzo Ducale",
+	"gold": 6    
+	"culture": 1,
+        "greatPersonPoints": {"Great Merchant": 1},
+        "requiredTech": "Banking",
+
+        "uniques": [
+            "[+1 Gold] from every [Trading post]"],
+
+        "isWonder": true
+    },		
+    {
+        "name": "Palace of Knossos",
+	"gold": 3    
+	"culture": 1,
+        "greatPersonPoints": {"Great Merchant": 1},
+        "requiredTech": "Sailing",
+
+        "uniques": [
+            "[+1 Science] from each Trade Route"],
+
+        "isWonder": true
+    },		
+        "name": "Basilica Sancti Petri",
+	"faith": 6    
+	"culture": 1,
+        "greatPersonPoints": {"Great Artist": 1},
+        "requiredTech": "Acoustics",
+
+        "uniques": [
+            "[+3 Faith] from every [Wonder]"],
+
+        "isWonder": true
+    },
+        "name": "Basilica of Saint Mary of the Flower",
+	"faith": 1    
+	"culture": 6,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Machinery",
+
+        "uniques": [
+            "[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]"],
+
+        "isWonder": true
+    },		
+        "name": "Mogao Cave",
+	"faith": 1,
+	"gold": 4,
+        "percentStatBonus": {"gold": 25},	
+        "greatPersonPoints": {"Great Merchant": 1},
+        "requiredTech": "Guilds",
+
+        "uniques": [
+                    "[+150]% Gold from Great Merchant trade missions"],
+
+        "isWonder": true
+    },		
+        "name": "Potala Palace",
+	"cityHealth": 100,
+	"culture": 8,
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Steel",
+
+        "uniques": [
+            "Must have an owned [Mountain] within [2] tiles", "[+2 Food, +3 Production, +1 Gold] from [Mountain] tiles [in this city]"],
+
+        "isWonder": true
+    },	
+        "name": "Ely cathedral",
+	"faith": 6,
+        "greatPersonPoints": {"Great Artist": 1},
+        "requiredTech": "Chivalry",
+
+        "uniques": [
+            "Religion naturally spreads to cities [+2] tiles away", "Can only be built <in [Holy] cities>"],
+
+        "isWonder": true
+    },		
+        "name": "Saladin citadel",
+	"culture": 6,
+	"cityHealth": 100,	
+        "greatPersonPoints": {"Great Engineer": 2},
+        "requiredTech": "Metal Casting",
+
+        "uniques": [
+            "Gain a free [Aqueduct] [in this city]", "[+2 Culture] from every [Plantation]"],
+
+        "isWonder": true
+    },		
+        "name": "Hallgrímskirkja",
+	"culture": 3,
+	"gold":8,
+        "greatPersonPoints": {"Great Artist": 2},
+        "requiredTech": "Radar",
+
+        "uniques": [
+            "[+33]% growth [in this city]"],
+
+        "isWonder": true
+    },
+        "name": "Versailles Palace",
+	"culture": 1,
+	"happiness": 3,
+        "greatPersonPoints": {"Great Artist": 2},
+        "requiredTech": "Architecture",
+
+        "uniques": ["[-33]% unhappiness from the number of cities"
+            ],
+
+        "isWonder": true
+    },		
+        "name": "Bulguksa Temple",
+	"culture": 4,
+        "greatPersonPoints": {"Great Artist": 1},
+        "requiredTech": "Civil Service",
+
+        "uniques": ["[+1 Food] from every [Great Improvement]"
+            ],
+
+        "isWonder": true
+    },	
+        "name": "Jongmyo Shrine",
+	"culture": 1,
+	"faith": 2,
+        "greatPersonPoints": {"Great Artist": 1},
+        "requiredTech": "Astronomy",
+
+        "uniques": ["[-25]% Food consumption by specialists [in all cities]","[+33]% growth [in capital]"
+            ],
+
+        "isWonder": true
+    },	
 ]
