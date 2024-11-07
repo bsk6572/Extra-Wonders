@@ -84,7 +84,7 @@
         "requiredTech": "Civil Service",
 
         "uniques": [
-            "[+25]% growth [in capital]"],
+            "[+33]% growth [in capital]"],
 
         "isWonder": true
     },	
@@ -264,7 +264,7 @@
     {
         "name": "Mogao Cave",
 	"faith": 1,
-	"gold": 4,
+	"gold": 5,
         "percentStatBonus": {"gold": 25},	
         "greatPersonPoints": {"Great Merchant": 1},
         "requiredTech": "Guilds",
@@ -275,8 +275,8 @@
         "isWonder": true
     },
     {
-        "name": "Potala Palace",
-	"cityHealth": 100,
+        "name": "Kathmandu Valley",
+	"cityHealth": 25,
 	"culture": 8,
         "greatPersonPoints": {"Great Engineer": 1},
         "requiredTech": "Steel",
@@ -328,7 +328,7 @@
         "greatPersonPoints": {"Great Artist": 2},
         "requiredTech": "Architecture",
 
-        "uniques": ["[-33]% unhappiness from the number of cities"
+        "uniques": ["[-20]% unhappiness from the number of cities"
             ],
 
         "isWonder": true
@@ -352,6 +352,258 @@
         "requiredTech": "Astronomy",
 
         "uniques": ["[-25]% Food consumption by specialists [in all cities]","[+33]% growth [in capital]"
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "the Queen’s Stepwell",
+	"food": 5,
+	"culture": 1,	
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Civil Service",
+
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Production] from every [Palace]"
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Dolmen",
+	"culture": 3,	
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Bronze Working",
+
+        "uniques": ["[+1 Faith] from every [Salt]","[+1 Faith] from every [Copper]","[+1 Faith] from every [Iron]"
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Fasil Ghebbi",
+	"production": 3	
+	"cityStrength": 6,		
+	"culture": 1,	
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Bronze Working",
+
+        "uniques": ["All newly-trained [Sword] units [in this city] receive the [Buffalo Horns] promotion"]
+            ],
+
+        "isWonder": true
+    },	
+	{
+        "name": "Great Bath",
+	"food": 3	
+	"culture": 1,
+	"happiness": 1,	
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Pottery",
+
+        "isWonder": true
+    },
+	{
+        "name": "Apadana",	
+	"culture": 4,
+	"gold": 4,	
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Philosophy",
+
+        "uniques": ["[Gold] cost of purchasing items in cities [-5]%"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Jebel Barkal",	
+	"production": 4,
+	"culture": 1,	
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Iron Working",
+
+        "uniques": ["Provides [5] [Iron]", "[+1 Production] from every [Iron]"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Huey Teocalli",	
+	"culture": 1,
+	"food": 4,
+        "percentStatBonus": {"food": 20},		
+        "greatPersonPoints": {"Great Engineer": 1},
+        "requiredTech": "Steel",
+
+        "uniques": ["[+1 Food, +1 Production, +1 Gold] from [Lakes] tiles [in this city]"]
+            ],
+
+        "isWonder": true
+    },		
+	{
+        "name": "Kilwa Kisiwani",	
+	"culture": 1,
+	"gold": 4,
+        "percentStatBonus": {"gold": 10},		
+        "greatPersonPoints": {"Great Merchant": 1},
+        "requiredTech": "Machinery",
+
+        "uniques": ["[2] free [Great Merchant] units appear"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Kilwa Kisiwani",	
+	"culture": 1,
+        "percentStatBonus": {"faith": 15},		
+        "greatPersonPoints": {"Great Merchant": 1},
+        "requiredTech": "Compass",
+
+        "uniques": ["[4] free [Pikeman] units appear"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Torre de Belém",	
+	"culture": 1,
+        "gold": 5		
+        "greatPersonPoints": {"Great Merchant": 1},
+        "requiredTech": "Astronomy",
+
+        "uniques": ["[+3 Gold] from every [Luxury resource] [in this city]"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Venetian Arsenal",	
+	"culture": 1,
+        "production": 6,		
+        "greatPersonPoints": {"Great Engineer": 2},
+        "requiredTech": "Industrialization",
+
+        "uniques": ["[+100]% Production when constructing [Naval] units [in this city]","Must be next to [Coast]"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Great Zimbabwe",	
+	"culture": 1,
+        "gold": 6,		
+        "greatPersonPoints": {"Great Merchant": 2},
+        "requiredTech": "Banking",
+
+        "uniques": ["[+2 Production, +4 Gold] from [Cattle] tiles [in this city]",
+	            "[+2 Production, +4 Gold] from [Horses] tiles [in this city]",
+		    "[+2 Production, +4 Gold] from [Sheep] tiles [in this city]"]"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Casa de Contratación",	
+	"culture": 1,
+        "gold": 6,		
+        "greatPersonPoints": {"Great Merchant": 3},
+        "requiredTech": "Navigation",
+
+        "uniques": ["[+3 Production, +3 Faith, +3 Gold] [in all cities] <on foreign continents>"]
+            ],
+
+        "isWonder": true
+    },	
+	{
+        "name": "Ruhr Valley",	
+	"production": 2,
+        "percentStatBonus": {"production": 25},	
+        "greatPersonPoints": {"Great Engineer": 3},
+        "requiredTech": "Industrialization",
+
+        "uniques": ["[+1 Production] from every [Mine] [in this city]", "[+1 Production] from every [Quarry]"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Panama Canal",	
+	"gold": 10,
+        "percentStatBonus": {"production": 10},	
+        "greatPersonPoints": {"Great Merchant": 3},
+        "requiredTech": "Steam Power",
+
+        "uniques": ["[+5 Gold] from each Trade Route"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Panama Canal",	
+	"gold": 10,
+        "percentStatBonus": {"production": 10},	
+        "greatPersonPoints": {"Great Merchant": 3},
+        "requiredTech": "Steam Power",
+
+        "uniques": ["[+5 Gold] from each Trade Route", "Must be on [River]", "Must be next to [Coast]"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Országház",	
+	"culture": 6,
+        "greatPersonPoints": {"Great Merchant": 2},
+        "requiredTech": "Fertilizer",
+
+        "uniques": ["Gifts of Gold to City-States generate [33]% more Influence"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Bolshoi Theatre",	
+	"culture": 5,
+        "greatPersonPoints": {"Great Artist": 10},
+        "requiredTech": "Electricity",
+
+        "isWonder": true
+    },
+	{
+        "name": "Estádio do Maracanã",	
+	"culture": 6,
+        "greatPersonPoints": {"Great Merchant": 2},
+        "requiredTech": "Computers",
+
+        "uniques": ["[+2 Happiness, +2 Culture] [in all cities]"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Amundsen-Scott Research Station",
+	"food": 6,	
+	"culture": 6,
+	"science": 6,
+	"percentStatBonus": {"production": 50},		
+        "greatPersonPoints": {"Great Scientist": 2},
+        "requiredTech": "Ecology",
+
+        "uniques": ["[+2 Food, +2 Production, +2 Science] from [Tundra] tiles [in this city]", "[+3 Food, +3 Production, +3 Science] from [Snow] tiles [in this city]", "Must be on [Snow]"]
+            ],
+
+        "isWonder": true
+    },
+	{
+        "name": "Biosphère",
+	"gold": 6,	
+	"culture": 6,
+	"science": 6,
+	"percentStatBonus": {"production": 20},		
+        "greatPersonPoints": {"Great Scientist": 2},
+        "requiredTech": "Nuclear Fission",
+
+        "uniques": ["[+1 happiness] from [Jungle] tiles", "[+1 happiness] from [Marsh] tiles"
             ],
 
         "isWonder": true
