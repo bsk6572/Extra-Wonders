@@ -388,7 +388,7 @@
         "requiredTech": "Bronze Working",
 
         "uniques": ["All newly-trained [Sword] units [in this city] receive the [Buffalo Horns] promotion"]
-            ],
+            ,
 
         "isWonder": true
     },	
@@ -410,7 +410,7 @@
         "requiredTech": "Philosophy",
 
         "uniques": ["[Gold] cost of purchasing items in cities [-5]%"]
-            ],
+            ,
 
         "isWonder": true
     },
@@ -421,7 +421,7 @@
         "greatPersonPoints": {"Great Engineer": 1},
         "requiredTech": "Iron Working",
 
-        "uniques": ["Provides [5] [Iron]", "[+1 Production] from every [Iron]"]
+        "uniques": ["Provides [5] [Iron]", "[+1 Production] from every [Iron]"
             ],
 
         "isWonder": true
@@ -434,7 +434,7 @@
         "greatPersonPoints": {"Great Engineer": 1},
         "requiredTech": "Steel",
 
-        "uniques": ["[+1 Food, +1 Production, +1 Gold] from [Lakes] tiles [in this city]"]
+        "uniques": ["[+1 Food, +1 Production, +1 Gold] from [Lakes] tiles [in this city]"
             ],
 
         "isWonder": true
@@ -447,19 +447,19 @@
         "greatPersonPoints": {"Great Merchant": 1},
         "requiredTech": "Machinery",
 
-        "uniques": ["[2] free [Great Merchant] units appear"]
+        "uniques": ["[2] free [Great Merchant] units appear"
             ],
 
         "isWonder": true
     },
 	{
-        "name": "Kilwa Kisiwani",	
+        "name": "Kotoku-in",	
 	"culture": 1,
         "percentStatBonus": {"faith": 15},		
         "greatPersonPoints": {"Great Merchant": 1},
         "requiredTech": "Compass",
 
-        "uniques": ["[4] free [Pikeman] units appear"]
+        "uniques": ["[4] free [Samurai] units appear"
             ],
 
         "isWonder": true
@@ -471,7 +471,7 @@
         "greatPersonPoints": {"Great Merchant": 1},
         "requiredTech": "Astronomy",
 
-        "uniques": ["[+3 Gold] from every [Luxury resource] [in this city]"]
+        "uniques": ["[+3 Gold] from every [Luxury resource] [in this city]"
             ],
 
         "isWonder": true
@@ -483,7 +483,7 @@
         "greatPersonPoints": {"Great Engineer": 2},
         "requiredTech": "Industrialization",
 
-        "uniques": ["[+100]% Production when constructing [Naval] units [in this city]","Must be next to [Coast]"]
+        "uniques": ["[+100]% Production when constructing [Naval] units [in this city]","Must be next to [Coast]"
             ],
 
         "isWonder": true
@@ -497,7 +497,7 @@
 
         "uniques": ["[+2 Production, +4 Gold] from [Cattle] tiles [in this city]",
 	            "[+2 Production, +4 Gold] from [Horses] tiles [in this city]",
-		    "[+2 Production, +4 Gold] from [Sheep] tiles [in this city]"]"]
+		    "[+2 Production, +4 Gold] from [Sheep] tiles [in this city]"]"
             ],
 
         "isWonder": true
@@ -509,7 +509,7 @@
         "greatPersonPoints": {"Great Merchant": 3},
         "requiredTech": "Navigation",
 
-        "uniques": ["[+3 Production, +3 Faith, +3 Gold] [in all cities] <on foreign continents>"]
+        "uniques": ["[+3 Production, +3 Faith, +3 Gold] [in all cities] <on foreign continents>"
             ],
 
         "isWonder": true
@@ -521,7 +521,7 @@
         "greatPersonPoints": {"Great Engineer": 3},
         "requiredTech": "Industrialization",
 
-        "uniques": ["[+1 Production] from every [Mine] [in this city]", "[+1 Production] from every [Quarry]"]
+        "uniques": ["[+1 Production] from every [Mine] [in this city]", "[+1 Production] from every [Quarry]"
             ],
 
         "isWonder": true
@@ -533,7 +533,7 @@
         "greatPersonPoints": {"Great Merchant": 3},
         "requiredTech": "Steam Power",
 
-        "uniques": ["[+5 Gold] from each Trade Route"]
+        "uniques": ["[+5 Gold] from each Trade Route"
             ],
 
         "isWonder": true
@@ -545,7 +545,7 @@
         "greatPersonPoints": {"Great Merchant": 3},
         "requiredTech": "Steam Power",
 
-        "uniques": ["[+5 Gold] from each Trade Route", "Must be on [River]", "Must be next to [Coast]"]
+        "uniques": ["[+5 Gold] from each Trade Route", "Must be on [River]", "Must be next to [Coast]"
             ],
 
         "isWonder": true
@@ -556,7 +556,7 @@
         "greatPersonPoints": {"Great Merchant": 2},
         "requiredTech": "Fertilizer",
 
-        "uniques": ["Gifts of Gold to City-States generate [33]% more Influence"]
+        "uniques": ["Gifts of Gold to City-States generate [33]% more Influence"
             ],
 
         "isWonder": true
@@ -575,7 +575,7 @@
         "greatPersonPoints": {"Great Merchant": 2},
         "requiredTech": "Computers",
 
-        "uniques": ["[+2 Happiness, +2 Culture] [in all cities]"]
+        "uniques": ["[+2 Happiness, +2 Culture] [in all cities]"
             ],
 
         "isWonder": true
@@ -589,7 +589,7 @@
         "greatPersonPoints": {"Great Scientist": 2},
         "requiredTech": "Ecology",
 
-        "uniques": ["[+2 Food, +2 Production, +2 Science] from [Tundra] tiles [in this city]", "[+3 Food, +3 Production, +3 Science] from [Snow] tiles [in this city]", "Must be on [Snow]"]
+        "uniques": ["[+2 Food, +2 Production, +2 Science] from [Tundra] tiles [in this city]", "[+3 Food, +3 Production, +3 Science] from [Snow] tiles [in this city]", "Must be on [Snow]"
             ],
 
         "isWonder": true
