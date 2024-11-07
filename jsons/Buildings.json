@@ -491,13 +491,13 @@
 	{
         "name": "Great Zimbabwe",	
 	"culture": 1,
-        "gold": 6,		
+        "production": 6,		
         "greatPersonPoints": {"Great Merchant": 2},
         "requiredTech": "Banking",
 
         "uniques": ["[+2 Production, +4 Gold] from [Cattle] tiles [in this city]",
 	            "[+2 Production, +4 Gold] from [Horses] tiles [in this city]",
-		    "[+2 Production, +4 Gold] from [Sheep] tiles [in this city]"]"
+		    "[+2 Production, +4 Gold] from [Sheep] tiles [in this city]"
             ],
 
         "isWonder": true
