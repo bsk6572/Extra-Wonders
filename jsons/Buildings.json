@@ -471,7 +471,7 @@
         "greatPersonPoints": {"Great Merchant": 1},
         "requiredTech": "Astronomy",
 
-        "uniques": ["[+3 Gold] from every [Luxury resource] [in this city]"
+        "uniques": ["[+3 Gold] from every [Luxury resource]"
             ],
 
         "isWonder": true
@@ -521,7 +521,7 @@
         "greatPersonPoints": {"Great Engineer": 3},
         "requiredTech": "Industrialization",
 
-        "uniques": ["[+1 Production] from every [Mine] [in this city]", "[+1 Production] from every [Quarry]"
+        "uniques": ["[+2 Production] from every [Quarry]"
             ],
 
         "isWonder": true
@@ -603,7 +603,7 @@
         "greatPersonPoints": {"Great Scientist": 2},
         "requiredTech": "Nuclear Fission",
 
-        "uniques": ["[+1 Happiness] from [Jungle] tiles", "[+1 Happiness] from [Marsh] tiles"
+        "uniques": ["[+2 Culture] from [Jungle] tiles", "[+2 Culture] from [Marsh] tiles"
             ],
 
         "isWonder": true
