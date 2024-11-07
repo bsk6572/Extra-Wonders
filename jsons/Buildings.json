@@ -603,7 +603,7 @@
         "greatPersonPoints": {"Great Scientist": 2},
         "requiredTech": "Nuclear Fission",
 
-        "uniques": ["[+2 Culture] from every [Jungle]", "[+2 Culture] from [Marsh]"
+        "uniques": ["[+2 Culture] from every [Jungle]"
             ],
 
         "isWonder": true
