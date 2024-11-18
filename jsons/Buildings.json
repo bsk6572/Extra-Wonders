@@ -610,7 +610,7 @@
     },	
     {
         "name": "Gobekli Tepe",
-
+	"cost": 125,
 	"faith": 2,
 
         "greatPersonPoints": {"Great Engineer": 1},
