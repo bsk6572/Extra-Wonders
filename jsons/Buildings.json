@@ -608,4 +608,17 @@
 
         "isWonder": true
     },	
+    {
+        "name": "Mont-Saint-Michel",
+
+	"faith": 2,
+
+        "greatPersonPoints": {"Great Engineer": 1},
+
+
+        "uniques": [
+            "Gain [2] free [Pantheon] beliefs"],
+
+        "isWonder": true
+    },		
 ]
